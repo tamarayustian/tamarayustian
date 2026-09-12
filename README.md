@@ -17,7 +17,18 @@ Away from code I photograph, edit video, and write. It's the same instinct. A go
 
 <sub><b>STACK</b></sub>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tamarayustian&layout=compact&langs_count=8&theme=transparent&title_color=F8F8F1&text_color=AAA6A1&icon_color=3C83F6&hide_border=true"><img alt="Languages I most use" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tamarayustian&layout=compact&langs_count=8&theme=transparent&title_color=1C1917&text_color=78726D&icon_color=2463EB&hide_border=true" width="300" /></picture>
+<table align="center">
+  <tr>
+    <td>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=tamarayustian&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=F8F8F1&text_color=AAA6A1&icon_color=3C83F6&hide_border=true"><img alt="Tamara Yustian's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=tamarayustian&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=1C1917&text_color=78726D&icon_color=2463EB&hide_border=true" width="450" /></picture>
+    </td>
+    <td>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tamarayustian&layout=compact&langs_count=8&theme=transparent&title_color=F8F8F1&text_color=AAA6A1&icon_color=3C83F6&hide_border=true"><img alt="Languages I most use" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tamarayustian&layout=compact&langs_count=8&theme=transparent&title_color=1C1917&text_color=78726D&icon_color=2463EB&hide_border=true" width="300" /></picture>
+    </td>
+  </tr>
+</table>
+
+<sub><b>CONTRIBUTION GRAPH</b></sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamarayustian/tamarayustian/output/snake-dark.svg">
