@@ -35,8 +35,6 @@ Away from code I photograph, edit video, and write. It's the same instinct. A go
   <img alt="Contribution grid eaten by a snake" src="https://raw.githubusercontent.com/tamarayustian/tamarayustian/output/snake-light.svg">
 </picture>
 
-</div>
-
 <sub><b>TECHNOLOGY</b></sub>
 
 <table align="center">
@@ -66,17 +64,19 @@ Away from code I photograph, edit video, and write. It's the same instinct. A go
   </tr>
 </table>
 
+</div>
+
 <sub><b>NOW</b></sub>
 
 Building [stewards](https://stewards-nine.vercel.app), an expense sharing web-app that skips the awkward messages.
 
 <sub><b>SELECTED WORK</b></sub>
 
-- [Arise Asia](https://www.ariseasia.org) — built site for international conferences with 4000+ in attendance and 5+ other international editions
-- [Harvest Mission Community Church of Hong Kong](https://hk.hmccglobal.org) — church site that I built as a volunteer
-- [Canon LIFE Group Leaders](https://canon-boom.vercel.app) — thank-you web app for small group leaders
-- [Git LIFE Group Leader](https://git-randall.vercel.app) — thank-you notes styled as commit messages
+- [Arise Asia](https://www.ariseasia.org): built site for international conferences with 4000+ in attendance and 5+ other international editions
+- [Harvest Mission Community Church of Hong Kong](https://hk.hmccglobal.org): church site that I built as a volunteer
+- [Canon LIFE Group Leaders](https://canon-boom.vercel.app): thank-you web app for small group leaders
+- [Git LIFE Group Leader](https://git-randall.vercel.app): thank-you notes styled as commit messages
 
 <sub><b>CONNECT</b></sub>
 
-[Email](mailto:tamarayustian@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tamara-yustian) · [Writing](https://medium.com/@tamarayustian) · [Readme source](https://github.com/tamarayustian/tamarayustian)
+[Email](mailto:tamarayustian@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tamara-yustian) · [Writing](https://medium.com/@tamarayustian) · [Portfolio](https://tamarayustian.vercel.app) · [Readme source](https://github.com/tamarayustian/tamarayustian)
