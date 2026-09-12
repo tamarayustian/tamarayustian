@@ -24,7 +24,7 @@ jobs:
           github_user_name: tamarayustian
           outputs: |
             dist/snake-light.svg?color_snake=2463EB&color_dots=EFECE4,D6D1C6,A69F93,5F5850,1C1917&color_dot_border=1C191724
-            dist/snake-dark.svg?color_snake=3C83F6&color_dots=232120,35322E,575249,8E887C,F3F2E9&color_dot_border=FFFFFF26
+            dist/snake-dark.svg?color_snake=3C83F6&color_dots=2E2B26,49443C,6E685C,A6A093,F8F8F1&color_dot_border=FFFFFF4D
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
