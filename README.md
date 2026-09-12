@@ -11,13 +11,18 @@ I'm a full-stack developer with six years of shipping software across TypeScript
 
 Away from code I photograph, edit video, and write. It's the same instinct. A good story has a structure, and so does a product that feels easy to use.
 
-**Current:** open to roles where I can own the path from requirement to production.
+**Current:** Actively looking for roles where I can build good products and contribute from requirement to production.
 
 <div align="center">
 
 <sub><b>STACK</b></sub>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tamarayustian&layout=compact&langs_count=8&theme=transparent&title_color=F8F8F1&text_color=AAA6A1&icon_color=3C83F6&hide_border=true"><img alt="Languages I most use" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tamarayustian&layout=compact&langs_count=8&theme=transparent&title_color=1C1917&text_color=78726D&icon_color=2463EB&hide_border=true" width="300" /></picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamarayustian/tamarayustian/output/snake-dark.svg">
+  <img alt="Contribution grid eaten by a snake" src="https://raw.githubusercontent.com/tamarayustian/tamarayustian/output/snake-light.svg">
+</picture>
 
 </div>
 
