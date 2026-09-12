@@ -17,30 +17,50 @@ Away from code I photograph, edit video, and write. It's the same instinct. A go
 
 <sub><b>STACK</b></sub>
 
-| | |
-|---|---|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tamarayustian&layout=compact&langs_count=8&theme=transparent&title_color=F8F8F1&text_color=AAA6A1&icon_color=3C83F6&hide_border=true"><img alt="Languages I most use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamarayustian&layout=compact&langs_count=8&theme=transparent&title_color=1C1917&text_color=78726D&icon_color=2463EB&hide_border=true" width="300" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tamarayustian&title_color=F8F8F1&text_color=AAA6A1&bg_color=0B0A09&grid_color=2A2724&line=3C83F6&point=3C83F6&area_color=12233A&hide_border=true"><img alt="Recent activity" src="https://github-readme-activity-graph.vercel.app/graph?username=tamarayustian&title_color=1C1917&text_color=78726D&bg_color=FCFCF8&grid_color=E9E5DD&line=2463EB&point=2463EB&area_color=EAEEF8&hide_border=true" width="420" /></picture> |
 
 </div>
 
 <sub><b>TECHNOLOGY</b></sub>
 
-| | | | |
-|---|---|---|---|
-| `TypeScript` | `React` | `Next.js` | `Node.js` |
-| `Vue.js` | `Python` | `Express` | `TailwindCSS` |
-| `PostgreSQL` | `Redis` | `AWS` | `Cloudflare` |
-| `Flutter` | `Vite` | `Railway` | `Vercel` |
+<table align="center">
+  <tr>
+    <td><code>TypeScript</code></td>
+    <td><code>React</code></td>
+    <td><code>Next.js</code></td>
+    <td><code>Node.js</code></td>
+  </tr>
+  <tr>
+    <td><code>Vue.js</code></td>
+    <td><code>Python</code></td>
+    <td><code>Express</code></td>
+    <td><code>TailwindCSS</code></td>
+  </tr>
+  <tr>
+    <td><code>PostgreSQL</code></td>
+    <td><code>Redis</code></td>
+    <td><code>AWS</code></td>
+    <td><code>Cloudflare</code></td>
+  </tr>
+  <tr>
+    <td><code>Flutter</code></td>
+    <td><code>Vite</code></td>
+    <td><code>Railway</code></td>
+    <td><code>Vercel</code></td>
+  </tr>
+</table>
 
 <sub><b>NOW</b></sub>
 
-Building [portfolio-site](https://github.com/tamarayustian/portfolio-site) — this site, from scratch. I designed the identity (Quiet Blueprint) and built the whole thing without a template.
+Building [stewards](https://stewards-nine.vercel.app), an expense sharing web-app that skips the awkward messages.
 
 <sub><b>SELECTED WORK</b></sub>
 
-- [Arise Asia](https://www.ariseasia.org) — front-end redesign, conferences, and 5+ international editions
+- [Arise Asia](https://www.ariseasia.org) — built site for international conferences with 4000+ in attendance and 5+ other international editions
+- [Harvest Mission Community Church of Hong Kong](https://hk.hmccglobal.org) — church site that I built as a volunteer
 - [Canon LIFE Group Leaders](https://canon-boom.vercel.app) — thank-you web app for small group leaders
-- [Harvest Mission Community Church of Hong Kong](https://hk.hmccglobal.org) — community site built as a volunteer
 - [Git LIFE Group Leader](https://git-randall.vercel.app) — thank-you notes styled as commit messages
 
 <sub><b>CONNECT</b></sub>
